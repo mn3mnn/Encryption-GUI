@@ -1,5 +1,7 @@
 # Text Encryption & Decryption GUI App
-This is a simple GUI app to encrypt and decrypt text using tkinter library. 
+
+### A simple GUI app to encrypt and decrypt text using tkinter library.
+
 
 **Screenshots:**
 
